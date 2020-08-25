@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "name": "Alex",
+    "averCheck": 1000,
+    "numbPurchase": 11,
+    "totalRev": 11000
+  },
+  {
+    "id": 2,
+    "name": "Bill",
+    "averCheck": 900,
+    "numbPurchase": 13,
+    "totalRev": 11700
+  },
+  {
+    "id": 3,
+    "name": "Alex",
+    "averCheck": 800,
+    "numbPurchase": 15,
+    "totalRev": 12000
+  },
+  {
+    "id": 4,
+    "name": "Yan",
+    "averCheck": 500,
+    "numbPurchase": 6,
+    "totalRev": 3000
+  },
+  {
+    "id": 5,
+    "name": "Kirill",
+    "averCheck": 200,
+    "numbPurchase": 2,
+    "totalRev": 400
+  },
+  {
+    "id": 6,
+    "name": "Rem",
+    "averCheck": 150,
+    "numbPurchase": 9,
+    "totalRev": 1350
+  },
+  {
+    "id": 7,
+    "name": "Alina",
+    "averCheck": 650,
+    "numbPurchase": 1,
+    "totalRev": 650
+  },
+  {
+    "id": 8,
+    "name": "Fotikh",
+    "averCheck": 15000,
+    "numbPurchase": 2,
+    "totalRev": 30000
+  },
+  {
+    "id": 9,
+    "name": "Kostia",
+    "averCheck": 740,
+    "numbPurchase": 13,
+    "totalRev": 2220
+  },
+  {
+    "id": 10,
+    "name": "Andrei",
+    "averCheck": 1100,
+    "numbPurchase": 6,
+    "totalRev": 6600
+  },
+  {
+    "id": 11,
+    "name": "Natasha",
+    "averCheck": 120,
+    "numbPurchase": 15,
+    "totalRev": 1800
+  },
+  {
+    "id": 12,
+    "name": "Regina",
+    "averCheck": 300,
+    "numbPurchase": 20,
+    "totalRev": 6000
+  },
+  {
+    "id": 13,
+    "name": "Sultan",
+    "averCheck": 50,
+    "numbPurchase": 40,
+    "totalRev": 2000
+  },
+  {
+    "id": 14,
+    "name": "Regina",
+    "averCheck": 700,
+    "numbPurchase": 15,
+    "totalRev": 10000
+  },
+  {
+    "id": 15,
+    "name": "Artur",
+    "averCheck": 10000,
+    "numbPurchase": 12,
+    "totalRev": 120000
+  }
+]
